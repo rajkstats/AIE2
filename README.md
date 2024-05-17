@@ -1,4 +1,6 @@
 # AI Engineering Bootcamp Curriculum Index
+These submissions were part of my AI Engineering Bootcamp, where each week and day participants engaged with different AI technologies and concepts.
+
 
 | Week     | Day   | Name                                                                    | Code                                                                                                             | Loom Link                                                                                     | Demo                                                                                              |
 |----------|-------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
